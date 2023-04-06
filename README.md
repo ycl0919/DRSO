@@ -16,15 +16,15 @@ PSO.m (Implementation of Inertia Weighted Particle Swarm Optimisation algorithm)
 
 1. Energy consumption vs Number of Mobile Users (pmax = 5W).
 
-![E_diff_u_diff_method](fig/E_diff_u_diff_method.jpg)
+<img src=".\fig\E_diff_u_diff_method.jpg" width="100%"/>
 
 2. Energy consumption vs Maximum Power (pmax).
 
-![E_diff_u_diff_pmax](fig/E_diff_u_diff_pmax.jpg)
+<img src=".\fig\E_diff_u_diff_pmax.jpg" width="100%"/>
 
 3. Convergence Property of NCGG vs Number of Mobile Users (pmax = 5W, y axis is E, not Error of E in the paper).
 
-![E_u_conv](fig/E_u_conv.jpg)
+<img src=".\fig\E_u_conv.jpg" width="100%"/>
 
 ## Problem 2: Joint Request Offloading and Computing Resource Scheduling
 
@@ -36,12 +36,13 @@ Welfare_PSO.m (Implementation of Binary Particle Swarm Optimisation)
 
 1. Performance versus different number of mobile users ($I_q = 700KB$).
 
-![Welf_diff_u_diff_wq](fig/Welf_diff_u_diff_wq.jpg)
+<img src=".\fig\Welf_diff_u_diff_wq.jpg" width="100%"/>
 
 2. Performance versus different request workload ($U = 60, I_q = 700 KB$).
 
-![Welf_diff_w_u60](fig/Welf_diff_w_u60.jpg)
+<img src=".\fig\Welf_diff_w_u60.jpg" width="100%"/>
 
 3. Performance versus different request input ($U = 60, w_q = 1500$ Magacycles).
 
-![Welf_diff_i_wq1500](fig/Welf_diff_i_wq1500.jpg)
+<img src=".\fig\Welf_diff_i_wq1500.jpg" width="100%"/>
+
